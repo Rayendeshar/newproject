@@ -10,3 +10,7 @@
  - git pull
  - git fetch
  - git show
+ - git branch
+ - git checkout
+ - git switch
+
